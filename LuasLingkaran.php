@@ -12,3 +12,5 @@ $rumus = LuasLingkaran::phi * ($lingkaran->jari * $lingkaran->jari);
 
 echo "Hasilnya adalah: ". $rumus;
 
+echo "Hasilnya adalah: ". $rumus;
+
